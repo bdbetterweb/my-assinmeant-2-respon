@@ -331,11 +331,12 @@ button {
     background-repeat: no-repeat;
     width: 1170px;
     height: 500px;
+    margin: 48px auto 24px auto;
 
 }
 
 
-.section-4-booking-lft {
+.section-4-booking-left{
     background-image: url(../Images/dis-2.png);
     background-repeat: no-repeat;
     width: 1170px;
@@ -344,11 +345,11 @@ button {
 }
 
 
-.booking-bg-lft {
+.booking-bg-left{
     width: 579px;
     height: 389px;
     position: relative;
-    right: -56px;
+    right:-56px;
     top: 58px;
     border-radius: 16px;
     border: 2px solid #FFF;
