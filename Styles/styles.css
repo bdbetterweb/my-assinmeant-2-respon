@@ -189,6 +189,11 @@ button {
 /* Header End */
 
 
+
+
+
+
+
 /* Section - 1 Start */
 .section-1-container {
     display: flex;
@@ -203,7 +208,6 @@ button {
 
 
 }
-
 
 .section-1-img {
     width: 540px;
@@ -305,6 +309,11 @@ button {
     background: rgba(233, 68, 68, 0.05);
 }
 
+/* end */
+
+
+
+
 
 /* section 4  Start */
 
@@ -396,15 +405,6 @@ button {
 
 
 
-.section-4-booking-l {
-    background-image: url(../Images/);
-    background-repeat: no-repeat;
-    width: 1170px;
-    height: 500px;
-    margin: 48px auto 24px auto;
-}
-
-
 .see-btn {
     color: #FFF;
     text-align: center;
@@ -420,6 +420,14 @@ button {
 }
 
 /* end */
+
+
+
+
+
+
+
+
 
 
 
