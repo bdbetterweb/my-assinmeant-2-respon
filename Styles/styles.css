@@ -9,6 +9,8 @@ body {
 
 
 /* Common Styles Strat*/
+
+
 .sam-style-1 {
     color: #131318;
     font-size: 40px;
@@ -229,14 +231,13 @@ button {
 
 
 
-.chld-1, .chld-2 {
+.chld-1,
+.chld-2 {
     display: flex;
     justify-content: space-around;
     width: 1170px;
     margin: 48px auto;
-    border-radius: 16px;
-    border: 1px solid rgba(251, 181, 99, 0.20);
-    background: rgba(251, 181, 99, 0.05);
+    
 }
 
 .chs-cmmn-img {
