@@ -229,7 +229,7 @@ button {
 
 
 
-
+/* Section 3 Why chose Option */
 
 .chld-1,
 .chld-2 {
@@ -237,7 +237,7 @@ button {
     justify-content: space-around;
     width: 1170px;
     margin: 48px auto;
-    
+
 }
 
 .chs-cmmn-img {
@@ -262,5 +262,28 @@ button {
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
+}
 
+.why-1 {
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+}
+
+.why-2 {
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+}
+
+.why-3 {
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
 }
